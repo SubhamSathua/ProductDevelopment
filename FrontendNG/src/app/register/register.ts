@@ -11,6 +11,7 @@ import { CommonModule } from '@angular/common';
   templateUrl: './register.html',
   styleUrls: ['./register.css'] 
 })
+
 export class Register {
   registerInput = {
     firstName: '',
